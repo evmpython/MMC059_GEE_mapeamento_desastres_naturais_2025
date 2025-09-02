@@ -1,0 +1,2 @@
+# MMC059_GEE_mapeamento_desastres_naturais_2025
+codigos python 
