@@ -1,0 +1,15 @@
+﻿Código,Classe,Área 1990 (km²),Área 2025 (km²),Variação (km²),Variação (%),Tendência,Status
+15,Pastagem,187.3631,169.1948,-18.1683,-9.7,📉 Redução,✅ Presente
+41,Outras Lavouras,2.9289,14.5922,11.6633,398.21,📈 Aumento,✅ Presente
+24,Área Urbana,8.7938,16.5018,7.708,87.65,📈 Aumento,✅ Presente
+3,Formação Florestal,69.1475,72.7036,3.5561,5.14,📈 Aumento,✅ Presente
+46,Café,4.6513,1.1582,-3.4931,-75.1,📉 Redução,✅ Presente
+12,Formação Campestre,3.3116,0.8573,-2.4543,-74.11,📉 Redução,✅ Presente
+9,Floresta Plantada,0.0,1.4244,1.4244,100.0,📈 Aumento,🆕 Nova
+21,Mosaico de Usos,13.5156,12.9911,-0.5245,-3.88,📉 Redução,✅ Presente
+33,Rios/Lagos/Oceano,0.6924,0.2347,-0.4577,-66.1,📉 Redução,✅ Presente
+11,Área Úmida,0.0254,0.4329,0.4075,1604.33,📈 Aumento,✅ Presente
+39,Soja,0.0,0.1962,0.1962,100.0,📈 Aumento,🆕 Nova
+25,Outras Áreas,0.0339,0.1871,0.1532,451.92,📈 Aumento,✅ Presente
+48,Outras Perenes,0.0141,0.0,-0.0141,-100.0,📉 Redução,❌ Desapareceu
+29,Afloramento Rochoso,0.0339,0.0372,0.0033,9.73,📈 Aumento,✅ Presente
